@@ -1,0 +1,43 @@
+
+h1{
+    font-size:30px;
+    cursor:pointer; 
+    color: white;
+    margin-top: 120px;
+    margin-left: 20px;
+  }
+  label{
+    display: block;
+  }
+  .form_label{
+    margin-left: 30px;
+    color: white;
+    font-size:15px;
+  }
+  .from_field{
+    background-color: #1b203d;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-bottom:solid 1px #3d4574 ;
+    width: 300px;
+    outline: none;
+    margin-left:50px ;
+    color: white;
+    font-size:22px;
+  }
+  .btn-add{
+    background-color: #3d4574;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    color: white;
+    position: absolute;
+      top: 90%;
+      left: 50%;
+
+  }
+  .btn-add:hover{
+    cursor: pointer;
+    background-color: #4c5692;
+  }

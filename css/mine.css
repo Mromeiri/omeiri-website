@@ -1,0 +1,50 @@
+.pro{
+	float: left;
+	width: 40px;
+	margin-top: 5px;
+  margin-left: 20px;
+}
+.ceegname{
+    margin-top: 5px;
+    margin-left: 10px;
+    display: inline;
+    width: 200px;
+    height: 57px;
+  }
+  #img_div{
+
+  }
+  thead {
+    position: sticky;
+    top: 0;
+     background-color:#1b203d;
+  }
+
+ .table-container {
+    overflow-y: auto;
+    max-height: 500px; /* Adjust the height as needed */
+  }
+  a{
+    padding: 0px;
+    margin: 0px;
+  }
+  input{
+    background-color: #1b203d;
+    display: inline;
+  }
+  .form_group,.form_label,.from_field{
+    display: inline
+  }
+  h1{
+    font-size:30px;
+    cursor:pointer; 
+    color: white;
+    margin-top: 300px;
+  }
+  .button{
+    border: none;
+    background-color: #1b203d;
+  }
+  select{
+    color: #1b203d;
+  }
